@@ -1,0 +1,26 @@
+{
+  "name": "jcb-send-resume-lambda",
+  "version": "1.0.0",
+  "description": "AWS Lambda of Send Resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcodebrainjs/jcb-send-resume-lambda.git"
+  },
+  "keywords": [
+    "lambda",
+    "node"
+  ],
+  "author": "David Cotelessa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcodebrainjs/jcb-send-resume-lambda/issues"
+  },
+  "homepage": "https://github.com/jcodebrainjs/jcb-send-resume-lambda#readme",
+  "dependencies": {
+    "nodemailer": "^6.1.0"
+  }
+}
