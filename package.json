@@ -21,6 +21,12 @@
   },
   "homepage": "https://github.com/jcodebrainjs/jcb-send-resume-lambda#readme",
   "dependencies": {
+    "eslint-config-prettier": "^4.1.0",
     "nodemailer": "^6.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
   }
 }
